@@ -11,6 +11,8 @@ $nombre =$_POST['nombre'];
 $email =$_POST['email'];
 $password =$_POST['password'];
 
+
+
 /*
 $qry1="select * from tbl_usuario where email='$email'";
 $raw=mysqli_query($connection,$qry1);
